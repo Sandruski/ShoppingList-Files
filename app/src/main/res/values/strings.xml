@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="enter_new_item_hint">Enter new item...</string>
+</resources>
